@@ -59,12 +59,3 @@ This repository contains my solutions to the exercises from the learnpytorch.io 
 9. **Confusion Matrix**: Plot confusion matrix for predictions.
 10. **Model Comparison**: Apply trained model on Fashion MNIST and analyze wrong predictions.
 
-### Contributing
-
-Contributions are welcome! Feel free to open an issue or submit a pull request if you notice any bugs or have improvements to suggest.
-
-### License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-Enjoy learning PyTorch!
